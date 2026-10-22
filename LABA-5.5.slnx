@@ -4,5 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="LABA-5.5/LABA-5.5.vcxproj" Id="c7338a94-9125-4122-871b-9a3efb055555" />
-  <Project Path="UnitTest5.5/UnitTest5.5.vcxproj" />
+  <Project Path="UnitTest5.5/UnitTest5.5.vcxproj" Id="b7f1c992-5620-4a9b-98a7-873e47515555" />
 </Solution>
